@@ -7,8 +7,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background: url("fundo.jpg") no-repeat center center fixed;
-      background-size: cover;
+      background: #1e1e2f; /* Fundo sólido */
       color: #fff;
       text-align: center;
       padding: 50px 20px;
@@ -75,11 +74,5 @@
     <a href="https://wa.me/5581997839240?text=quero%20um%20corre%2020" class="btn">De 20</a>
     <a href="https://wa.me/5581997839240?text=quero%20um%20corre%20de%2050" class="btn">De 50</a>
   </div>
-
-  <!-- Música de fundo -->
-  <audio autoplay loop>
-    <source src="lingua.mp3" type="audio/mpeg">
-    Seu navegador não suporta áudio.
-  </audio>
 </body>
 </html>
